@@ -1,8 +1,9 @@
 // About.js
 // import React from "react";
-import Button from "./Button";
+
 import AOS from "aos";
 import  { useEffect } from "react";
+import Button from "./Button";
 
 const About = () => {
   useEffect(()=>{
@@ -32,7 +33,7 @@ const About = () => {
           <div className="flex mt-8 gap-2">
             <div className="flex items-center justify-center">
               <div className="flex space-x-2">
-                <Button name="Resume" />
+             <Button name="Resume"/>
               </div>
             </div>
           </div>
