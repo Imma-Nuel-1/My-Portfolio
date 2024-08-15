@@ -1,6 +1,6 @@
 // About.js
 // import React from "react";
-import Button from "./button";
+import Button from "./Button";
 import AOS from "aos";
 import  { useEffect } from "react";
 

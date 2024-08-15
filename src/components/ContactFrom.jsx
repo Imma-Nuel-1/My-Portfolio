@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
-import Button from "./button"; // Ensure correct path
+import Button from "./Button"; // Ensure correct path
 
 const ContactApi = () => {
   const [formData, setFormData] = useState({
