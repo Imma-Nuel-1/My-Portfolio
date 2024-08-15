@@ -2,17 +2,16 @@ import AOS from "aos";
 import React, { useEffect } from "react";
 
 const Projects = () => {
-  useEffect(()=>{
+  useEffect(() => {
     AOS.init({
-     
-      duration: 1000
+      duration: 1000,
     });
-   },[1000])
+  }, [1000]);
   return (
     <div id="Projects">
       <div className="p-20 flex flex-col items-center justify-center">
         <h1
-         data-aos="fade-right"
+          data-aos="fade-right"
           className="text-[52px] font-semibold mb-20 leading-normal uppercase text-white"
         >
           Projects
