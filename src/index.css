@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.nav {
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+.glow {
+  transition: all 0.3s ease-in-out;
+}
+.glow:hover {
+  box-shadow: 0 0 25px rgb(245, 243, 244);
+}
+
+.img_glow {
+  box-shadow: 0 0 10px rgb(245, 243, 244);
+}
+.b_glow {
+  box-shadow: 0 0 10px rgb(245, 243, 244);
+}
