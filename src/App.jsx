@@ -34,7 +34,7 @@ function App() {
       <Services/>
       <Projects/>
       <Contacts/>
-      {/* <ContactApi/> */}
+      
       <Footer/>
     </div>
      }
