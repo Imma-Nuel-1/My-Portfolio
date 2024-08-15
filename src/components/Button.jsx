@@ -1,4 +1,5 @@
-import React from "react";
+import PropTypes from "prop-types";
+
 
 const Button = ({ name }) => {
   return (
@@ -23,3 +24,10 @@ const Button = ({ name }) => {
 };
 
 export default Button;
+
+Button.proptype = {
+  setSearchValue: PropTypes.string,
+};
+
+
+
