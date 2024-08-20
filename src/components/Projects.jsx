@@ -22,7 +22,7 @@ const Projects = () => {
             height={350}
             width={350}
             className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-6 border-2 border-slate-800 b_glow"
-            src=""
+            src="https://res.cloudinary.com/dtlejpoxq/image/upload/v1724191141/Screenshot_20-8-2024_224757_vercel.com_saqjug.jpg"
             alt=""
           />
           <img
