@@ -13,27 +13,42 @@ const Nav = () => {
       <div className="lg:hidden  block absolute top-16 w-screen h-screen left-0 right-0 z-50 bg-slate-800 transition">
         <ul className="text-center h-[100vh] text-xl p-20">
           <Link spy={true} smooth={true} to="Home">
-            <li  onClick={() =>  setclick(!click)} className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">
+            <li
+              onClick={() => setclick(!click)}
+              className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded"
+            >
               Home
             </li>
           </Link>
           <Link spy={true} smooth={true} to="About">
-            <li  onClick={() =>  setclick(!click)} className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">
+            <li
+              onClick={() => setclick(!click)}
+              className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded"
+            >
               About
             </li>
           </Link>
           <Link spy={true} smooth={true} to="Services">
-            <li  onClick={() =>  setclick(!click)} className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">
+            <li
+              onClick={() => setclick(!click)}
+              className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded"
+            >
               Skills
             </li>
           </Link>
           <Link spy={true} smooth={true} to="Projects">
-            <li  onClick={() =>  setclick(!click)} className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">
+            <li
+              onClick={() => setclick(!click)}
+              className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded"
+            >
               Projects
             </li>
           </Link>
           <Link spy={true} smooth={true} to="Contacts">
-            <li  onClick={() =>  setclick(!click)} className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded">
+            <li
+              onClick={() => setclick(!click)}
+              className="my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded"
+            >
               Contact
             </li>
           </Link>
@@ -56,29 +71,28 @@ const Nav = () => {
         <div className="lg:flex md:flex lg:flex-1 items-center justify-center font-normal hidden">
           <div className="flex-10">
             <ul className="flex gap-8 mr-16 text-[18px]">
-              <Link  spy={true} smooth={true} to="Home">
-                <li  className="hover:text-slate-600  transition  border-slate-900 hover:border-slate-600 cursor-pointer ">
+              <Link spy={true} smooth={true} to="Home">
+                <li className="hover:text-slate-600  transition  border-slate-900 hover:border-slate-600 cursor-pointer ">
                   Home
                 </li>
               </Link>
               <Link spy={true} smooth={true} to="About">
-                <li  className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
+                <li className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
                   About
                 </li>
               </Link>
               <Link spy={true} smooth={true} to="Services">
-                <li  className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
+                <li className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
                   Skills
                 </li>
               </Link>
               <Link spy={true} smooth={true} to="Projects">
-                <li  className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
-                  
+                <li className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
                   Projects
                 </li>
               </Link>
               <Link spy={true} smooth={true} to="Contacts">
-                <li  className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
+                <li className="hover:text-slate-600 transition  border-slate-900 hover:border-slate-600 cursor-pointer">
                   Contacts
                 </li>
               </Link>

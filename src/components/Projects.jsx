@@ -38,7 +38,7 @@ const Projects = () => {
             height={350}
             width={350}
             className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
-            src=""
+            src="https://res.cloudinary.com/dtlejpoxq/image/upload/v1724944473/Screenshot_29-8-2024_161325_localhost_vfvvcf.jpg"
             alt=""
           />
         </div>
