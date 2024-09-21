@@ -16,7 +16,7 @@ const Projects = () => {
         >
           Projects
         </h1>
-        <div className="flex flex-wrap gap-10 ">
+        <div className="flex flex-wrap gap-10 justify-center items-center ">
           {/* project 1 */}
           <div className="flex flex-col gap-3">
             <img
