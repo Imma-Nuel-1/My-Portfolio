@@ -132,7 +132,7 @@ const Projects = () => {
           </div>
 
           {/* project 4 */}
-          <div className="flex flex-col gap-3">
+          {/* <div className="flex flex-col gap-3">
             <img
               data-aos="fade-up"
               height={350}
@@ -167,7 +167,7 @@ const Projects = () => {
                 </a>
               </button>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
