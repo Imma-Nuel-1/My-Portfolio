@@ -26,44 +26,57 @@ const Banner = () => {
           data-aos="fade-right"
           className="text-[35px] lg:w-[90%] lg:text-[52px] font-bold  leading-normal uppercase lg:text-left text-center"
         >
-          Iyiola Afuye <span className=" text-slate-500"> A FullStack </span>Web
-          Developer
+          Adesanya Olumuyiwa{" "}
+          <span className=" text-slate-500"> A FullStack </span>Web Developer
         </h1>
 
         <p
           data-aos="fade-left"
           className="text-[20px] text-slate-500 lg:font-semibold  lg:w-[68%] "
         >
-          I'm a freelance Fullstack Web Developer with a passion for crafting
-          exceptional digital experiences. My expertise lies in building
-          accessible, human-centered, and SEO-friendly products.
+          I'm a freelance Fullstack Web Developer dedicated to creating
+          exceptional digital experiences. With expertise in crafting
+          accessible, human-centered, and SEO-friendly products, I help
+          businesses thrive in the digital landscape.
         </p>
         <div className="flex mt-8 gap-2">
           <div className="flex items-center justify-center">
             <div className="flex space-x-2">
               <a
-                href="https://github.com/Iyiola2dev"
+                href="https://github.com/Imma-Nuel-1"
                 className="text-[white] hover:text-slate-500 rounded-full glow py-2 px-1"
               >
-                <FaGithub data-aos="fade-left" className="text-[25px]  lg:text-[35px]" />
+                <FaGithub
+                  data-aos="fade-left"
+                  className="text-[25px]  lg:text-[35px]"
+                />
               </a>
               <a
-                href="https://www.linkedin.com/in/iyiola-afuye-b1a772296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B84gCK07%2FSPyqbIu%2FgT2usA%3D%3D"
+                href="https://www.linkedin.com/in/olumuyiwa-adesanya-846374241"
                 className="text-[white] hover:text-slate-500 rounded-full glow py-2 px-1"
               >
-                <FaLinkedinIn data-aos="fade-right" className="text-[25px] lg:text-[35px]" />
+                <FaLinkedinIn
+                  data-aos="fade-right"
+                  className="text-[25px] lg:text-[35px]"
+                />
               </a>
               <a
-                href="https://x.com/Iyi_dev"
+                href="https://x.com/ImmaNueel_Dev"
                 className="text-[white] hover:text-slate-500 rounded-full glow py-2 px-1"
               >
-                <FaSquareXTwitter data-aos="fade-left" className="text-[25px] lg:text-[35px]" />
+                <FaSquareXTwitter
+                  data-aos="fade-left"
+                  className="text-[25px] lg:text-[35px]"
+                />
               </a>
               <a
-                href="https://instagram.com/lexicon_h"
+                href="https://www.instagram.com/imma_nuel.2"
                 className="text-[white] hover:text-slate-500 rounded-full glow py-2 px-1"
               >
-                <FaInstagram data-aos="fade-right" className="text-[25px] lg:text-[35px]" />
+                <FaInstagram
+                  data-aos="fade-right"
+                  className="text-[25px] lg:text-[35px]"
+                />
               </a>
             </div>
           </div>
@@ -71,7 +84,7 @@ const Banner = () => {
       </div>
       <img
         data-aos="fade-up"
-        src="https://res.cloudinary.com/dtlejpoxq/image/upload/v1723246441/iyi_szna9x.jpg"
+        src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1728602751/20240820_121359000_iOS_rcvvqo.jpg"
         width={290}
         height={290}
         className="rounded-full border-2 p-1 border-slate-500 img_glow"

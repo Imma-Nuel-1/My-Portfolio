@@ -16,7 +16,7 @@ const Contacts = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    
+
     // Access environment variables
     const serviceId = import.meta.env.VITE_SERVICE_ID;
     const templateId = import.meta.env.VITE_TEMPLATE_ID;
@@ -28,7 +28,7 @@ const Contacts = () => {
       from_email: formData.email,
       subject: formData.subject,
       message: formData.message,
-      to_name: "Iyiola",
+      to_name: "Imm~Nuel",
     };
 
     // Send the email using EmailJs

@@ -63,7 +63,7 @@ const Nav = () => {
           <span>
             <img
               className="h-[30px] lg:h-[50px]"
-              src="https://res.cloudinary.com/dtlejpoxq/image/upload/v1723417365/Screenshot_12-8-2024_0159_looka.com-removebg-preview_h1yunn.png"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1728609787/Screenshot_2024-10-11_022213_pckpaq.png"
               alt=""
             />
           </span>
