@@ -10,7 +10,7 @@ const About = () => {
     <div id="About">
       <div className="lg:px-50 px-10 lg:py-0 py-20 text-center text-wrap lg:text-start flex lg:flex-row flex-col-reverse justify-between gap-10 lg:gap-28 items-center">
         <img
-          src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1728602751/20240820_121359000_iOS_rcvvqo.jpg"
+          src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739387282/IMG_2779_kpocby.jpg"
           width={290}
           height={290}
           className="rounded border-2 p-1 border-slate-500 img_glow"
@@ -44,7 +44,7 @@ const About = () => {
             <div className="flex items-center justify-center">
               <div className="flex space-x-2">
                 <a
-                  href="https://docs.google.com/document/d/1TNd510WAJXNrFM5ch333dT-D89FEnSiJiMOTpTEB1F8/edit?usp=sharing"
+                  href="https://docs.google.com/document/d/1ESUJgAjlp7fkIPA7PBluAtu3m_7PGZ38htm4sxBVLu8/edit?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

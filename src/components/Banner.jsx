@@ -84,7 +84,7 @@ const Banner = () => {
       </div>
       <img
         data-aos="fade-up"
-        src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1728602751/20240820_121359000_iOS_rcvvqo.jpg"
+        src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739387282/IMG_2779_kpocby.jpg"
         width={290}
         height={290}
         className="rounded-full border-2 p-1 border-slate-500 img_glow"

@@ -24,13 +24,13 @@ const Projects = () => {
               height={350}
               width={350}
               className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
-              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1728606978/Screenshot_2024-10-11_013229_pn89o0.png"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739388672/Screenshot_2025-02-12_203034_exmep9.png"
               alt=""
             />
             <div className="flex gap-3 justify-center items-center ">
               <button>
                 <a
-                  href="https://react-ecommerce-appli-git-cdca9b-adesanya-oluwamuyiwas-projects.vercel.app"
+                  href="https://my-portfolio-ys5c.vercel.app"
                   className="relative inline-block px-4 py-2 font-medium group"
                 >
                   <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
@@ -42,7 +42,7 @@ const Projects = () => {
               </button>
               <button>
                 <a
-                  href="https://github.com/Imma-Nuel-1/React-Ecommerce-Application.git"
+                  href="https://github.com/Imma-Nuel-1/My-Portfolio.git"
                   className="relative inline-block px-4 py-2 font-medium group"
                 >
                   <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
@@ -62,13 +62,13 @@ const Projects = () => {
               height={350}
               width={350}
               className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
-              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1728606977/Screenshot_2024-10-11_013124_onbezz.png"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739388289/Screenshot_2025-02-12_202338_scsqem.png"
               alt=""
             />
             <div className="flex gap-3 justify-center items-center ">
               <button>
                 <a
-                  href="https://nextjs-dashboard-sandy-sigma-60.vercel.app"
+                  href="https://www.cryptocarehub.pro"
                   className="relative inline-block px-4 py-2 font-medium group"
                 >
                   <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
@@ -80,7 +80,81 @@ const Projects = () => {
               </button>
               <button>
                 <a
-                  href="https://github.com/Imma-Nuel-1/nextjs-dashboard.git"
+                  href="https://github.com/Imma-Nuel-1/cryptocare-hub2.git"
+                  className="relative inline-block px-4 py-2 font-medium group"
+                >
+                  <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
+                  <span className="absolute inset-0 w-full h-full bg-white border-2 border-black group-hover:bg-black"></span>
+                  <span className="relative text-black group-hover:text-white">
+                    Github
+                  </span>
+                </a>
+              </button>
+            </div>
+          </div>
+          {/* project 3 */}
+          <div className="flex flex-col gap-3">
+            <img
+              data-aos="fade-up"
+              height={350}
+              width={350}
+              className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739388288/Screenshot_2025-02-12_202234_pfleq6.png"
+              alt=""
+            />
+            <div className="flex gap-3 justify-center items-center ">
+              <button>
+                <a
+                  href="https://birthday-portal-frontend.vercel.app"
+                  className="relative inline-block px-4 py-2 font-medium group"
+                >
+                  <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
+                  <span className="absolute inset-0 w-full h-full bg-white border-2 border-black group-hover:bg-black"></span>
+                  <span className="relative text-black group-hover:text-white">
+                    Demo
+                  </span>
+                </a>
+              </button>
+              <button>
+                <a
+                  href="https://github.com/Imma-Nuel-1/Birthday-Portal-Frontend.git"
+                  className="relative inline-block px-4 py-2 font-medium group"
+                >
+                  <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
+                  <span className="absolute inset-0 w-full h-full bg-white border-2 border-black group-hover:bg-black"></span>
+                  <span className="relative text-black group-hover:text-white">
+                    Github
+                  </span>
+                </a>
+              </button>
+            </div>
+          </div>
+          {/* project 4 */}
+          <div className="flex flex-col gap-3">
+            <img
+              data-aos="fade-up"
+              height={350}
+              width={350}
+              className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739388288/Screenshot_2025-02-12_202157_cvym90.png"
+              alt=""
+            />
+            <div className="flex gap-3 justify-center items-center ">
+              <button>
+                <a
+                  href="https://annies-birthday.vercel.app"
+                  className="relative inline-block px-4 py-2 font-medium group"
+                >
+                  <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
+                  <span className="absolute inset-0 w-full h-full bg-white border-2 border-black group-hover:bg-black"></span>
+                  <span className="relative text-black group-hover:text-white">
+                    Demo
+                  </span>
+                </a>
+              </button>
+              <button>
+                <a
+                  href="https://github.com/Imma-Nuel-1/Annies-birthday-.git"
                   className="relative inline-block px-4 py-2 font-medium group"
                 >
                   <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
