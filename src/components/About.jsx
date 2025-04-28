@@ -44,7 +44,7 @@ const About = () => {
             <div className="flex items-center justify-center">
               <div className="flex space-x-2">
                 <a
-                  href="https://docs.google.com/document/d/1ESUJgAjlp7fkIPA7PBluAtu3m_7PGZ38htm4sxBVLu8/edit?usp=drive_link"
+                  href="https://drive.google.com/file/d/18hucmV9CSHHMRPwyGchO5eVKTbQwA7Te/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

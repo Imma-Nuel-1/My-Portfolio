@@ -136,13 +136,13 @@ const Projects = () => {
               height={350}
               width={350}
               className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
-              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739388288/Screenshot_2025-02-12_202157_cvym90.png"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1745844571/Screenshot_2025-04-28_133650_abh4ar.png"
               alt=""
             />
             <div className="flex gap-3 justify-center items-center ">
               <button>
                 <a
-                  href="https://annies-birthday.vercel.app"
+                  href="https://mern-e-commerce-sigma.vercel.app"
                   className="relative inline-block px-4 py-2 font-medium group"
                 >
                   <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
