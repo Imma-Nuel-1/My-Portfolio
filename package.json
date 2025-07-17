@@ -13,6 +13,7 @@
     "@emailjs/browser": "^4.4.1",
     "aos": "^3.0.0-beta.6",
     "axios": "^1.7.3",
+    "caniuse-lite": "^1.0.30001727",
     "dotenv": "^16.4.5",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
@@ -23,7 +24,6 @@
     "react-router-dom": "^6.26.0",
     "react-scroll": "^1.9.0",
     "react-spring": "^9.7.4"
-    
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",

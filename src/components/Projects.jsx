@@ -24,7 +24,7 @@ const Projects = () => {
               height={350}
               width={350}
               className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
-              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1739388672/Screenshot_2025-02-12_203034_exmep9.png"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1752756646/Screenshot_2025-07-17_134953_xjkdwm.png"
               alt=""
             />
             <div className="flex gap-3 justify-center items-center ">
@@ -136,7 +136,7 @@ const Projects = () => {
               height={350}
               width={350}
               className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
-              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1745844571/Screenshot_2025-04-28_133650_abh4ar.png"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1752756741/Screenshot_2025-07-17_135200_fg5mmn.png"
               alt=""
             />
             <div className="flex gap-3 justify-center items-center ">
