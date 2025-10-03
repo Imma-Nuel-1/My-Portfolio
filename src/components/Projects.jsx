@@ -166,6 +166,43 @@ const Projects = () => {
               </button>
             </div>
           </div>
+          {/* project 5 */}
+          <div className="flex flex-col gap-3">
+            <img
+              data-aos="fade-up"
+              height={350}
+              width={350}
+              className="text-[26px] flex  items-center justify-center font-semibold text-white rounded-3xl p-3 border-2 border-slate-800 b_glow"
+              src="https://res.cloudinary.com/dvr3sk23p/image/upload/v1759489456/Screenshot_2025-10-03_115453_negtvi.png"
+              alt=""
+            />
+            <div className="flex gap-3 justify-center items-center ">
+              <button>
+                <a
+                  href="https://championsite.vercel.app"
+                  className="relative inline-block px-4 py-2 font-medium group"
+                >
+                  <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
+                  <span className="absolute inset-0 w-full h-full bg-white border-2 border-black group-hover:bg-black"></span>
+                  <span className="relative text-black group-hover:text-white">
+                    Demo
+                  </span>
+                </a>
+              </button>
+              <button>
+                <a
+                  href="https://github.com/Imma-Nuel-1/championsite.git"
+                  className="relative inline-block px-4 py-2 font-medium group"
+                >
+                  <span className="absolute inset-0 w-full h-full transition duration-200 ease-out transform translate-x-1 translate-y-1 bg-black group-hover:-translate-x-0 group-hover:-translate-y-0"></span>
+                  <span className="absolute inset-0 w-full h-full bg-white border-2 border-black group-hover:bg-black"></span>
+                  <span className="relative text-black group-hover:text-white">
+                    Github
+                  </span>
+                </a>
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     </div>
